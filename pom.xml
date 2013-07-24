@@ -20,7 +20,6 @@
 
 	<modules>
 		<module>library</module>
-		<module>library-maps-support</module>
 	</modules>
 
 	<scm>
